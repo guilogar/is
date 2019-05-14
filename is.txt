@@ -1,0 +1,16 @@
+
+1º charla
+=========
+
+- waterfall
+- metrica v3
+- cascada <=> espiral
+- 1950 primera vez ciclo de vida iterativo
+
+2º charla
+=========
+
+- cascada               = Requisitos, Diseño, Codificacion, Testing (12 meses)
+- iterativo             = varias iteraciones de Requisitos, Diseño, Codificacion, Testing (4 meses)
+- iterativo incremental = muchas iteraciones de Requisitos, Diseño, Codificacion, Testing (2-4 semanas)
+
